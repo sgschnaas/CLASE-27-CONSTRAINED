@@ -1,2 +1,2 @@
-# CLASE-27-CONSTRAINED
-Archivo de AngryBirds 2.5 Inicio clase (Inglés) Plan de estudios 1:2 global
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
